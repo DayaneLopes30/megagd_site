@@ -1,5 +1,4 @@
-
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -37,7 +36,7 @@
   <main class="container">
     <section class="grid-2">
       <div class="card">
-        <img src="https://i.imgur.com/4WQXH4K.jpg" alt="Removedor de Verrugas" style="width:100%; border-radius:12px;">
+        <img src="https://i.postimg.cc/qRx8HsBB/Ata-tca-100-Jpg-246x500.jpg" alt="Removedor de Verrugas" style="width:100%; border-radius:12px;">
       </div>
       <div class="card">
         <span class="badge">🚚 Frete grátis para todo o Brasil</span>
@@ -79,7 +78,8 @@
   </main>
 
   <footer>
-    © 2025 Mega GD. CNPJ 53.872.093/0001-00. Rua Fenix 50, Jardim Luciana, Itaquaquecetuba/SP — CEP 08575-720.
+    © 2025 Mega GD. . Rua Fenix 50, Jardim Luciana, Itaquaquecetuba/SP — CEP 08575-720.
   </footer>
 </body>
 </html>
+
