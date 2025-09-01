@@ -1,4 +1,5 @@
-<!DOCTYPE html>
+
+ <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
@@ -36,7 +37,7 @@
   <main class="container">
     <section class="grid-2">
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1585386959984-a41552231664?q=80&w=600&auto=format&fit=crop" alt="Removedor de Verrugas" style="width:100%; border-radius:12px;">
+        <img src="https://i.imgur.com/4WQXH4K.jpg" alt="Removedor de Verrugas" style="width:100%; border-radius:12px;">
       </div>
       <div class="card">
         <span class="badge">🚚 Frete grátis para todo o Brasil</span>
