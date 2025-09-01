@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Removedor de Verrugas — Mega GD</title>
+  <meta name="description" content="Removedor de Verrugas Comuns e Genitais HPV — Tratamento eficaz e rápido, fórmula avançada e dermatologicamente testada." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    /* (mantém o mesmo CSS do modelo anterior) */
+  </style>
+</head>
+<body>
+  <header class="container header">
+    <div class="logo">
+      <div class="logo-badge">🛍️</div>
+      <span>Mega GD</span>
+    </div>
+    <div class="header-cta">
+      <span class="badge">✅ Compra 100% segura</span>
+      <a href="#comprar" class="btn btn-primary">Comprar agora</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- HERO -->
+    <section class="hero">
+      <div class="card gallery">
+        <div class="gallery-main" id="gallery-main">
+          <img src="https://images.unsplash.com/photo-1585386959984-a41552231664?q=80&w=1200&auto=format&fit=crop" alt="Removedor de Verrugas" id="main-img"/>
+        </div>
+      </div>
+
+      <div class="card product">
+        <span class="badge">🚚 Frete grátis para todo o Brasil</span>
+        <h1>Removedor de Verrugas Comuns Genitais HPV Condilomas [ORIGINAL] — Tratamento Eficaz e Rápido</h1>
+        <div class="stars">★★★★★ <span style="color:var(--gray-500);font-weight:600">(4.9 de 5 | 1.254 avaliações)</span></div>
+
+        <div class="price">
+          <div class="from">De R$ 102,99</div>
+          <div class="to">Por R$ 97,99</div>
+        </div>
+        <div class="pix">ou <strong>R$ 93,09 no PIX</strong> (5% OFF)</div>
+
+        <div class="trust">
+          <div class="t">🔒 Site Seguro SSL</div>
+          <div class="t">💳 Até 12x no cartão</div>
+          <div class="t">📦 Envio em 24–48h</div>
+          <div class="t">↩️ 7 dias para troca</div>
+        </div>
+
+        <div class="cta" id="comprar">
+          <a href="https://www.mercadolivre.com.br/up/MLBU3097876426?pdp_filters=item_id%3AMLB5332394840#origin%3Dshare%26sid%3Dshare%26wid%3DMLB5332394840" target="_blank" class="btn-pay">Comprar agora no Mercado Livre</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Benefícios -->
+    <section class="section grid-2">
+      <div class="list">
+        <h2>Por que escolher o Removedor de Verrugas [ORIGINAL]?</h2>
+        <div class="li"><div class="dot"></div><div><strong>Fórmula Avançada</strong><br><span>Desenvolvida para atuar diretamente nas verrugas, promovendo sua eliminação sem causar dor ou desconforto.</span></div></div>
+        <div class="li"><div class="dot"></div><div><strong>Uso Doméstico</strong><br><span>Tratamento que pode ser realizado no conforto da sua casa, garantindo privacidade total.</span></div></div>
+        <div class="li"><div class="dot"></div><div><strong>Resultados Rápidos</strong><br><span>Muitos usuários relatam melhorias visíveis nas primeiras semanas de uso.</span></div></div>
+        <div class="li"><div class="dot"></div><div><strong>Adequado para Todos os Tipos de Pele</strong><br><span>Produto dermatologicamente testado, seguro para diferentes tipos de pele.</span></div></div>
+      </div>
+      <div class="card" style="padding:16px">
+        <img src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=1200&auto=format&fit=crop" alt="Benefícios" style="width:100%;border-radius:14px"/>
+      </div>
+    </section>
+
+    <!-- Como usar -->
+    <section class="section grid-2">
+      <div class="card" style="padding:18px">
+        <h3>Modo de Usar</h3>
+        <p>O modo de usar acompanha o produto em embalagem lacrada e manual de instruções.</p>
+      </div>
+      <div class="card" style="padding:18px">
+        <h3>Informações do Produto</h3>
+        <ul>
+          <li>Conteúdo: 1 unidade</li>
+          <li>Frete: Grátis para todo o Brasil</li>
+          <li>Fabricante: Mega GD</li>
+          <li>Validade: impresso na embalagem</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Avaliações -->
+    <section class="section">
+      <h2>O que dizem nossos clientes</h2>
+      <div class="reviews">
+        <div class="review"><div class="name">Carla</div><div class="stars">★★★★★</div><p>"Produto eficaz, em poucas semanas já notei melhora."</p></div>
+        <div class="review"><div class="name">João</div><div class="stars">★★★★★</div><p>"Tratamento prático, usei em casa sem complicação."</p></div>
+        <div class="review"><div class="name">Marina</div><div class="stars">★★★★☆</div><p>"Chegou rápido e funciona, recomendo."</p></div>
+      </div>
+    </section>
+
+    <!-- Políticas -->
+    <section class="section policies">
+      <a href="#">Política de Frete</a>
+      <a href="#">Trocas e Devoluções</a>
+      <a href="#">Privacidade</a>
+      <a href="#">Termos de Uso</a>
+      <span>Contato: <a href="mailto:suporte@megagd.com.br">suporte@megagd.com.br</a></span>
+    </section>
+
+    <footer class="container footer">
+      © <span id="year"></span> Mega GD. CNPJ 53.872.093/0001-00. Rua Fenix 50, Jardim Luciana, Itaquaquecetuba/SP — CEP 08575-720.
+    </footer>
+  </main>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
