@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content=<meta name="google-site-verification" content= "Jn4al6xIZnyZmhtxyg8YwIFZzWp 
+  <meta name="viewport" content=<meta name="google-site-verification" content="Jn4al6xIZnyZmhtxyg8YwIFZz
   <title>Removedor de Verrugas — Mega GD</title>
   <meta name="description" content="Removedor de Verrugas Comuns e Genitais HPV — Tratamento eficaz e rápido, fórmula avançada e dermatologicamente testada.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
